@@ -9,7 +9,7 @@ public class Practical {
         float e = 12.25f;
         double f = 123.125;
         char g =  '\u0000';
-        boolean h = false;/  "шлюха"  /
+        boolean h = false;
 
     }
 }
